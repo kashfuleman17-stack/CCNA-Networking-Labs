@@ -8,6 +8,7 @@ A collection of my Cisco Packet Tracer labs and networking practice while studyi
 - DHCP
 - Static Routing
   ^Manual routing
+  ^Default routing
 ## Tools used:
 
 - Cisco Packet Tracer
